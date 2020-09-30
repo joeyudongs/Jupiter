@@ -12,6 +12,8 @@ Backend
 5. Deployed server to Amazon Web Service EC2 to handle user requests on demand
 
 ![demo1](https://github.com/joeyudongs/Jupiter/blob/master/images/EventRecommendation.png)
+![demo1](https://github.com/joeyudongs/Jupiter/blob/master/images/EventRecommendation2.png)
+![demo1](https://github.com/joeyudongs/Jupiter/blob/master/images/EventRecommendation3.png)
 
 ## Getting Started
 
